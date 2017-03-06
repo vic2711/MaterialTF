@@ -9,6 +9,7 @@
 import UIKit
 import QuartzCore
 let floatingTitleLabelHeight = 10
+
 public extension String {
   
   func substring(_ r: Range<Int>) -> String {
